@@ -91,12 +91,26 @@ h5 {
 .service-box img {
   width: 125px;
 }
-#general-information {
+.dark-background {
   background-color: rgb(25, 33, 41);
 }
-#general-information p, h3{
+
+.dark-background p, h3, h4{
   color: rgb(255, 255, 255)
 }
+#team .section-text {
+  font-size: 1.9em;
+  text-align: center;
+}
+#team .member-name {
+  font-size: 1.5em;
+  font-weight: 700;
+}
+#team img {
+  width: 250px;
+  height: 180px;
+}
+
 #general-information p{
   font-size: 2em;
   font-weight: 100;
