@@ -167,6 +167,33 @@ td {
   height: 375px;
   width: 60%;
 }
+
+.slot-form-comtainer {
+  width: 40%;
+  margin: 18px auto 0;
+  font-size: 1.5em;
+  text-align: center;
+}
+
+.slot-form-comtainer label {
+  line-height: 15px;
+  margin: 5px;
+}
+
+.slot-form-comtainer input, select {
+  height: 20px;
+  outline: none;
+  padding: 3px;
+  width: 100%;
+}
+
+.slot-form-comtainer button {
+  border: 1px solid black;
+  color: black;
+  background-color: white;
+  padding: 9px;
+  margin-top: 15px;
+}
 #general-information {
   display: flex;
   justify-content: space-evenly;
